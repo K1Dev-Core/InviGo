@@ -336,6 +336,7 @@ $currentPath = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
             box-shadow: 10px 10px 0 0 black;
             opacity: 0;
             transition: opacity 0.3s, transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+            z-index: 99999;
         }
         #tour-popover.active {
             opacity: 1;
