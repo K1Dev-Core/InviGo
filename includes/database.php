@@ -1,5 +1,5 @@
 <?php
-$hostname = 'localhost:3306';
+$hostname = 'k1god.com'; 
 $dbName = 'k1god_invigo';
 $username = 'k1god_invigo';
 $password = 'ZMzm^hqRmre8j%69';
